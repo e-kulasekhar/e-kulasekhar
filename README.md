@@ -1,54 +1,87 @@
-# Hi 👋, I'm Kulasekhar  
+<h1 align="center">Hi 👋, I'm Kulasekhar</h1>
+<h3 align="center">Aspiring Software Engineer | AI & ML Graduate</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 🚀 About Me  
 
 🎓 B.Tech Graduate in AI & ML  
-💻 Aspiring Software Engineer  
-🌱 Currently learning Java, Python, DSA & Web Development  
-🚀 Passionate about coding and continuous learning  
+💻 Passionate Software Developer  
+🌱 Learning Full Stack Development  
+🔥 Love building projects and improving daily  
+🎯 Goal: Become a Professional Software Engineer  
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Technologies & Tools  
 
-- 🔭 I’m working on improving my programming skills  
-- 📚 Learning Full Stack Development step by step  
-- 🎯 Goal: Become a skilled Software Engineer  
-- 🤝 Open to internships, projects & collaborations  
-- ⚡ I believe in: *Practice > Theory*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,spring,git,github,vscode" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 💡 Programming Skills  
 
-- **Languages:** Java, Python  
-- **Web:** HTML, CSS, JavaScript (Learning)  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code  
-- **Concepts:** OOP, DSA Basics  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+- ☕ Java  
+- 🐍 Python  
+- 🌐 HTML, CSS, JavaScript  
+- 🛢 MySQL  
+- 🌱 Spring Framework  
+- 🔧 Git & GitHub  
 
 ---
 
-## 📌 My Goals
+## 📊 GitHub Stats  
 
-- Master DSA  
-- Build real-world projects  
-- Get a good software job  
-- Contribute to open source  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
----
-
-## 📫 Connect With Me
-
-- 📧 Email: kulasekhar409@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/kulasekhar-edagottu-419123337  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+## ⚡ Fun Animation  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 🎯 My Goals  
+
+✔ Master DSA  
+✔ Build real-world applications  
+✔ Crack software job  
+✔ Contribute to open source  
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/kulasekhar-edagottu-419123337">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:kulasekhar409@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>  
+</p>
